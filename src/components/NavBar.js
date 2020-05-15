@@ -3,7 +3,7 @@ import React from 'react'
 function NavBar(props){
   const colors = {
     black: 'navbar-inverse',
-    white: 'navbar-default'
+    white: 'navbar-default' 
   }
   
   return (
